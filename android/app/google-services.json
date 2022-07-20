@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896579711958",
+    "firebase_url": "https://shop-2ca48-default-rtdb.firebaseio.com",
+    "project_id": "shop-2ca48",
+    "storage_bucket": "shop-2ca48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896579711958:android:f7c760b769a6dc5c5eea77",
+        "android_client_info": {
+          "package_name": "com.example.chop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896579711958-ag7arnlhinb75pq0i11lm39jn1dlnnh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6ykvBKtbqmxHYlv-Cv0Cbf9FjxUe-xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896579711958-ag7arnlhinb75pq0i11lm39jn1dlnnh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
